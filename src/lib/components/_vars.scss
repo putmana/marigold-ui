@@ -1,0 +1,20 @@
+@use './fonts';
+
+// ====== FONT ======
+$font: fonts.$mona-sans-narrow !default;
+
+// ====== SIZE ======
+
+// ====== COLOR ======
+$color_background_a: hsl(0, 0%, 10%, 100%);
+$color_background_b: hsl(0, 0%, 15%, 100%);
+$color_background_c: hsl(0, 0%, 25%, 100%);
+
+$color_border: hsl(0, 0%, 10%, 100%);
+
+$color_text_a: hsl(0, 0%, 100%, 100%);
+$color_text_b: hsl(0, 0%, 90%, 100%);
+
+$color_textbox: hsl(0, 0%, 0%, 10%);
+
+$color_button: hsl(0, 0%, 100%, 10%);
